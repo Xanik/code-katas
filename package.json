@@ -1,0 +1,25 @@
+{
+  "name": "code_katas",
+  "version": "1.0.0",
+  "description": "Code fun Space",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xanik/code-katas.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "npm",
+    "test"
+  ],
+  "author": "Ike Sandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xanik/code-katas/issues"
+  },
+  "homepage": "https://github.com/Xanik/code-katas#readme"
+}
