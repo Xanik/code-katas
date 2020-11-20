@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Xanik/code-katas/issues"
   },
-  "homepage": "https://github.com/Xanik/code-katas#readme"
+  "homepage": "https://github.com/Xanik/code-katas#readme",
+  "dependencies": {
+    "underscore": "^1.11.0"
+  }
 }
